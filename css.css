@@ -1,0 +1,20 @@
+
+#btn{
+    background-color: rgba(220, 20, 60, 0.7);
+    border: 1px solid #444;
+    font-family: Schwabach,sans-serif;
+    font-size: 1.5em;
+    color: #333333;
+    outline: none;
+    border-radius: 5px;
+}
+#btn:hover{
+    color:yellow;
+}
+h1{
+    display: inline-block;
+    margin-right: 4rem;
+}
+.hide-me{
+    visibility: hidden;
+}
